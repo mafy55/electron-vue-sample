@@ -32,7 +32,7 @@ export default {
 html, body, #editor {
   margin: 0;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  color: #333;
+  color: #222;
 }
 
 textarea, #editor div {
