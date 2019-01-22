@@ -23,8 +23,8 @@ export default {
   methods: {
     update (e) {
       this.input = e.target.value
-    };
-  };
+    }
+  }
 }
 </script>
 
